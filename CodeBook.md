@@ -1,7 +1,7 @@
----
-title: CodeBook for Activity Recognition Using Smartphones Data Set 
-output: github_document
----
+## CodeBook for Activity Recognition Using Smartphones Data Set 
+
+
+
 ##Variables
 ````
  subject							1..2
