@@ -64,9 +64,9 @@ STEP 4: Appropriately labels the data set with descriptive variable names.
 STEP 5: From the data set in step 4, creates a second, independent tidy data set with the average of each variable
 	for each activity and each subject.
 ````
-8. By using aggregate function. we calculate the mean for each variable by assigning a list of (subject, activity)
-	to the by argument and mean to FUN argument.(by the way you can use melting and dcast function from reshape2 
- 	package to do the required summary statistics)
+8.By using aggregate function. we calculate the mean for each variable by assigning a list of(subject, activity)
+   to the by argument and mean to FUN argument.(by the way you can use melting and dcast functions from reshape2 
+   package to do the required summary statistics)
 
 9. Using write.table the output dataset with name "finalData.txt" is generated. 
 
