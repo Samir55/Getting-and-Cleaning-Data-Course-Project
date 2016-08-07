@@ -17,6 +17,19 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+#Goals
+
+````
+ The goal is to prepare tidy data that can be used for later analysis. 
+
+````
+
+#Files included
+
+1. ReadMe.md . :)
+2. CodeBook.md -> describes the variables.
+3. run_analysis.R -> the script responsible for preparing data.
+
 #run_analysis.R script
 ````
 **This script assumes that you have downloaded the data from the link above and unzipped it.
